@@ -1,0 +1,19 @@
+{
+  "name": "cml-painter3d-gl",
+  "version": "1.0.0",
+  "description": "web gl 3d painter tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z185840150/cml-painter3d-gl.git"
+  },
+  "author": "chameleon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z185840150/cml-painter3d-gl/issues"
+  },
+  "homepage": "https://github.com/z185840150/cml-painter3d-gl#readme"
+}
